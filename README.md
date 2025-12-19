@@ -2,6 +2,7 @@
 
 Project Title:-Detection of Alzheimer’s Disease Using Transfer Learning Methods on MRI images
 CourseWork:-Machine Learning
+
 ----
 
 ## Overview
