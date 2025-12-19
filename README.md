@@ -38,9 +38,16 @@ Traditional diagnosis methods are time-consuming and subjective, motivating the 
   - Moderate Demented  
 
 Data imbalance was handled using **data augmentation techniques**.
-### 📷 Sample MRI Images
 
+### 📷 Sample MRI Images from the Dataset
 
+<p align="center">
+  <img src="assets/SampleImage.png" width="600" />
+</p>
+
+<p align="center">
+  <em>Figure 1: Sample MRI images representing different stages of Alzheimer’s disease.</em>
+</p>
 ---
 
 ## 📁 Repository Structure
