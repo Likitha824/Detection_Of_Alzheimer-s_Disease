@@ -42,7 +42,7 @@ Data imbalance was handled using **data augmentation techniques**.
 ### 📷 Sample MRI Images from the Dataset
 
 <p align="center">
-  <img src="assets/SampleImage.png" width="600" />
+  <img src="assets/Dataset_sample.png" width="600" />
 </p>
 
 <p align="center">
