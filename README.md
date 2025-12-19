@@ -4,20 +4,20 @@ Project Title:-Detection of Alzheimer’s Disease Using Transfer Learning Method
 
 CourseWork:-Machine Learning
 
----
+----
 
 ## Overview
 
 This project focuses on the **early detection and classification of Alzheimer’s Disease (AD)** using **MRI brain images** and **deep learning models** with transfer learning. The goal is to accurately classify different stages of Alzheimer’s disease to support early diagnosis and clinical decision-making.
 
----
+----
 
 ## 📌 Problem Statement
 
 Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior. Early and accurate detection is crucial, as the disease is irreversible in later stages. 
 Traditional diagnosis methods are time-consuming and subjective, motivating the use of **deep learning-based automated approaches**.
 
----
+----
 ## 🛠 Technologies & Tools
 
 - **Programming Language:** Python  
