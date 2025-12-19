@@ -4,7 +4,7 @@ Project Title:-Detection of Alzheimer’s Disease Using Transfer Learning Method
 
 CourseWork:-Machine Learning
 
-----
+---
 
 ## Overview
 
@@ -27,6 +27,7 @@ Traditional diagnosis methods are time-consuming and subjective, motivating the 
 - **Domain:** Medical Image Analysis, Deep Learning
 
 ---
+
 ## 🗂 Dataset
 
 - **Source:** Publicly available Kaggle MRI dataset  
@@ -48,6 +49,7 @@ Data imbalance was handled using **data augmentation techniques**.
 <p align="center">
   <em>Figure 1: Sample MRI images representing different stages of Alzheimer’s disease.</em>
 </p>
+
 ---
 
 ## 📁 Repository Structure
