@@ -40,8 +40,6 @@ Traditional diagnosis methods are time-consuming and subjective, motivating the 
 
 Data imbalance was handled using **data augmentation techniques**.
 
----
-
 ### 📷 Sample MRI Images from the Dataset
 
 <p align="center">
@@ -52,7 +50,7 @@ Data imbalance was handled using **data augmentation techniques**.
   <em>Figure 1: Sample MRI images representing different stages of Alzheimer’s disease.</em>
 </p>
 
-
+---
 
 ## 📁 Repository Structure
 
@@ -62,6 +60,8 @@ Data imbalance was handled using **data augmentation techniques**.
 ├── README.md # Project documentation
 
 ```
+---
+
 ## 🧪 Methodology
 
 ### 🔹 Data Preprocessing
