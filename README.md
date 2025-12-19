@@ -8,13 +8,10 @@ CourseWork:-Machine Learning
 
 ##  📌 Overview
 
+Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior. Early and accurate detection is crucial, as the disease is irreversible in later stages. 
+
 This project focuses on the **early detection and classification of Alzheimer’s Disease (AD)** using **MRI brain images** and **deep learning models** with transfer learning. The goal is to accurately classify different stages of Alzheimer’s disease to support early diagnosis and clinical decision-making.
 
-
-### Problem Statement
-
-Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior. Early and accurate detection is crucial, as the disease is irreversible in later stages. 
-Traditional diagnosis methods are time-consuming and subjective, motivating the use of **deep learning-based automated approaches**.
 
 ----
 ## 🛠 Technologies & Tools
@@ -96,8 +93,8 @@ Pretrained models were fine-tuned by freezing base layers and training custom fu
   - F1-score
 
 ### 🔑 Key Observation
-VGG16 outperformed ResNet50 and DenseNet-121, especially in handling class imbalance and achieving stable validation accuracy.
 
+VGG16 outperformed ResNet50 and DenseNet-121, particularly in handling class imbalance and achieving stable validation accuracy.
 ---
 
 ## 🚀 Future Work
