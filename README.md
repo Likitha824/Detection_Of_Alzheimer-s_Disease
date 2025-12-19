@@ -38,6 +38,8 @@ Traditional diagnosis methods are time-consuming and subjective, motivating the 
   - Moderate Demented  
 
 Data imbalance was handled using **data augmentation techniques**.
+### 📷 Sample MRI Images
+
 
 ---
 
