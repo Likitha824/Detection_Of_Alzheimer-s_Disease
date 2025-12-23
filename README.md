@@ -1,6 +1,4 @@
-## 🧠 Detection of Alzheimer’s Disease Using Transfer Learning Methods on MRI images
-
-Project Title:-Detection of Alzheimer’s Disease Using Transfer Learning Methods on MRI images
+## Detection of Alzheimer’s Disease Using Transfer Learning Methods on MRI images
 
 CourseWork:-Machine Learning
 
@@ -11,7 +9,6 @@ CourseWork:-Machine Learning
 Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior. Early and accurate detection is crucial, as the disease is irreversible in later stages. 
 
 This project focuses on the **early detection and classification of Alzheimer’s Disease (AD)** using **MRI brain images** and **deep learning models** with transfer learning. The goal is to accurately classify different stages of Alzheimer’s disease to support early diagnosis and clinical decision-making.
-
 
 ----
 ## 🛠 Technologies & Tools
@@ -95,6 +92,7 @@ Pretrained models were fine-tuned by freezing base layers and training custom fu
 ### 🔑 Key Observation
 
 VGG16 outperformed ResNet50 and DenseNet-121, particularly in handling class imbalance and achieving stable validation accuracy.
+
 ---
 
 ## 🚀 Future Work
