@@ -2,8 +2,6 @@
 
 CourseWork:-Machine Learning
 
-----
-
 ##  📌 Overview
 
 Alzheimer’s disease is a progressive neurodegenerative disorder that affects memory, cognition, and behavior. Early and accurate detection is crucial, as the disease is irreversible in later stages. 
